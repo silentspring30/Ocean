@@ -14,14 +14,13 @@ Stories of AI Outreach
    - https://medium.com/@silentspring30/tutorial-how-to-publish-sell-a-dataset-privately-via-compute-over-data-on-ocean-marketplace-de6d12f72353
    - [X] Shortlist 10 groups and engage e.g. Women in AI, Black in AI, DAIR and youth groups in AI.
    - https://docs.google.com/spreadsheets/d/1WtJ4KBp3Ew-FUD9ZypMEaiRLNG1B4mgaWXkiz_3YOFQ/edit?usp=sharing
-   - [ ] Share tutorials and blogs with communities and/or host 20min online sessions with groups.
    - [ ] Engage with 5 groups. I only engaged with some AI individuals. However their feedback was very skeptical and some people refused to have any further contact. This could be an individual cases but there seems to be a caution from the AI community towards web3. This needs to be researched further.
+   - [ ] Share tutorials and blogs with communities and/or host 20min online sessions with groups.
    - [ ] I have not shared the blogs with communities yet or have been able to host 20min session with them.
    - [X] Conduct qualitative user research on “barriers to selling data and algorithms” and “community approach on selling data”.
    - I conducted 3 user interviews 1:1, with general people and AI experts. Everyday people seemed not to concerned about their data, they used: Google Home, Shazaam, Amazon and Google documents and it didn't occur to them yet that they could sell their data and get remunerated for it.
    - AI experts were open to the idea of data selling but didn't trust blockchain/web3. 
-   - [] Engage with communities on twitter, discord and telegram, not yet.
-
+   - [ ] Engage with communities on twitter, discord and telegram for the above reasons I was slightly hesitant.
 
 Value Add Criteria
 

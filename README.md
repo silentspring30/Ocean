@@ -16,10 +16,11 @@ Stories of AI Outreach
    - https://docs.google.com/spreadsheets/d/1WtJ4KBp3Ew-FUD9ZypMEaiRLNG1B4mgaWXkiz_3YOFQ/edit?usp=sharing
    - [ ] Share tutorials and blogs with communities and/or host 20min online sessions with groups.
    - [ ] Engage with 5 groups. I only engaged with some AI individuals. However their feedback was very skeptical and some people refused to have any further contact. This could be an individual cases but there seems to be a caution from the AI community towards web3. This needs to be researched further.
-   - [] I have not shared the blogs with communities yet or have been able to host 20min session with them.
+   - [ ] I have not shared the blogs with communities yet or have been able to host 20min session with them.
    - [X] Conduct qualitative user research on “barriers to selling data and algorithms” and “community approach on selling data”.
-   - I conducted user interviews 1:1, with general people and AI experts. It seemed there is a general 
-   - [x] Engage with communities on twitter, discord and telegram.
+   - I conducted 3 user interviews 1:1, with general people and AI experts. Everyday people seemed not to concerned about their data, they used: Google Home, Shazaam, Amazon and Google documents and it didn't occur to them yet that they could sell their data and get remunerated for it.
+   - AI experts were open to the idea of data selling but didn't trust blockchain/web3. 
+   - [] Engage with communities on twitter, discord and telegram, not yet.
 
 
 Value Add Criteria

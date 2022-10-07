@@ -5,13 +5,18 @@ Stories of AI Outreach
 
    - Content creation: User friendly 4x 4min video tutorials and short blog posts
    - [x] 1 Overview of Ocean, url:
+   - https://medium.com/@silentspring30/could-communities-reduce-bias-in-ai-by-selling-data-on-ocean-and-getting-remunerated-for-it-4b4b6969fefa
    - [x] 2 Ocean Academy and courses: Ocean 101, url:
+   - https://medium.com/@silentspring30/learning-about-the-data-economy-data-selling-decentralized-finance-defi-at-ocean-academy-for-5d36a5b73c51
    - [x] 3 “How to upload data on Ocean with less gas fees” url:
-   - [x] 4 “Why and how to use compute over data on Ocean” url:
-   - [ ] Shortlist 10 groups and engage e.g. Women in AI, Black in AI, DAIR and youth groups in AI.
-   - [ ] Share tutorials and blogs with communities and/or host 20min online sessions with groups.
+   - https://medium.com/@silentspring30/learning-about-the-data-economy-data-selling-decentralized-finance-defi-at-ocean-academy-for-5d36a5b73c51
+   - [x] 4 “Why and how to use compute over data on Ocean” url: 
+   - https://medium.com/@silentspring30/tutorial-how-to-publish-sell-a-dataset-privately-via-compute-over-data-on-ocean-marketplace-de6d12f72353
+   - [X] Shortlist 10 groups and engage e.g. Women in AI, Black in AI, DAIR and youth groups in AI.
+   - 
+   - [X] Share tutorials and blogs with communities and/or host 20min online sessions with groups.
    - [ ] Engage with 5 groups
-   - [ ] Conduct qualitative user research on “barriers to selling data and algorithms” and “community approach on selling data”.
+   - [X] Conduct qualitative user research on “barriers to selling data and algorithms” and “community approach on selling data”.
    - [x] Engage with communities on twitter, discord and telegram.
 
 

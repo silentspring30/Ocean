@@ -21,8 +21,9 @@ Stories of AI Outreach
     - Not yet, due to the reasons above I was slightly hesitant how to approach them.
    - [X] Conduct qualitative user research on “barriers to selling data and algorithms” and “community approach on selling data”.
    - I conducted 3 user interviews 1:1, with general people and AI experts. Everyday people seemed not to concerned about their data, they used: Google Home, Shazaam, Amazon and Google documents and it didn't occur to them yet that they could sell their data and get remunerated for it.
-   - AI experts were open to the idea of data selling but didn't trust blockchain/web3 yet. 
-   - [ ] Engage with communities on twitter, discord and telegram for the above reasons I was slightly hesitant.
+   - AI experts were open to the idea of data selling but didn't trust blockchain/web3. 
+   - [ ] Engage with communities on twitter, discord and telegram. F
+   - For the above reasons I was slightly hesitant.
 
 Value Add Criteria
 

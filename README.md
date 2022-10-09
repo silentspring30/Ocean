@@ -10,32 +10,34 @@ Stories of AI Outreach
 
 
   * UPDATE on time spent: 
-   * In preparation to reaching out to AI communities, I had to be prepared for questions and since I'm new to this field spent time researching and reading articles on AI safety, Ethics and decentralization. I also realized that I had to frame the outreach differently, since it could come potentially could come across as a web3scam (When I started to reach out, I got some mixed feedback from respondents).
- 
-  * Researched decentralized AI and Safety, and focused on how to mitigate Bias. Biggest questions here to explore AI development, Data collection, How to mitigate data bias.
+   * In preparation to reaching out to AI communities, I had to be prepared for questions and since I'm new to OCEAN and decentralized AI safety spent time researching and reading articles on AI safety, Ethics and decentralization. I also realized that I had to frame the outreach differently, since it could come potentially could come across as a web3scam (When I started to reach out, I got some mixed feedback from respondents).
+* Based on these insights, I reframed as: **Could-communities-reduce-bias-in-AI-by-selling-data-on-Ocean-and-getting-remunerated-for-it?** rather then "How to sell data in Ocean".
+  * Researched decentralized AI and Safety, and focused on how to mitigate Bias. Biggest questions here to explore AI development, Data collection, How to mitigate data bias. I developed my main argument here that Ocean marketplace could allow the decentralization of data.
   * Researched how to potentially onboard AI communities to data trusts, e.g. Datatrusts and how the onboarding would work. Biggest questions where in how to agree on a data privacy framework.
   * Researched how and where the data would be residing e.g. AWS or IFPS? How is security ensured?
   * Review current dialogue of minority AI groups: e.g. DAIR, AI groups re Web3 and biggest topics. E.g. Data bias and concerns of exploitation data labellers.
  
  * Tutorials: I researched what kind of Ocean tutorials are currently available and decided on a shorter and less technical format. 
-  Researched Ocean Market, Researched Ocean Compute-to-Data.
-  I also had to set up my metamask for testing: How to get set up on Goerli and get test tokens Ether and OCEAN. 
+  Researched Ocean Market, Researched Ocean Compute-to-Data. I also had to set up my Metamask for testing: How to get set up on Goerli and get test tokens Ether and OCEAN.
    
    - [x ] 2 Ocean Academy and courses: Ocean 101, url:
    - https://medium.com/@silentspring30/learning-about-the-data-economy-data-selling-decentralized-finance-defi-at-ocean-academy-for-5d36a5b73c51
    
-   - [x ] 3 “How to upload data on Ocean with less gas fees” url:
-   
+   - [x ] 3 “How to upload data on Ocean with less gas fees” url: 
+      - https://medium.com/@silentspring30/could-communities-reduce-bias-in-ai-by-selling-data-on-ocean-and-getting-remunerated-for-it-4b4b6969fefa
+
    - [x] 4 “Why and how to use compute over data on Ocean” url: 
    - https://medium.com/@silentspring30/tutorial-how-to-publish-sell-a-dataset-privately-via-compute-over-data-on-ocean-marketplace-de6d12f72353
    
    - [X] Shortlist 10 groups and engage e.g. Women in AI, Black in AI, DAIR and youth groups in AI.
    - https://docs.google.com/spreadsheets/d/1WtJ4KBp3Ew-FUD9ZypMEaiRLNG1B4mgaWXkiz_3YOFQ/edit?usp=sharing
    
-   - [ ] Engage with 5 groups. I only engaged with some AI individuals. However their feedback was very skeptical, there seems to be a lot of caution from the AI community towards web3. This needs to be researched further. By reading the tweets and blogs, there seems to be a lot of mistrusts towards web3 and Silicon valley.
+   - [ ] Engage with 5 groups. I only engaged with some AI individuals. However their feedback was very skeptical, there seems to be a lot of caution from the AI community towards web3. This needs to be researched further. By reading the tweets and blogs, there seems to be a lot of mistrusts towards web3 and Silicon valley. 
+   * Next steps, start engaging with 5 groups and gather feedback.
    
    - [ ] Share tutorials and blogs with communities and/or host 20min online sessions with groups.
-   - Not yet, due to the reasons above I was slightly hesitant how to approach them.  
+   * Not yet, due to the reasons above I was slightly hesitant how to approach them.  
+   * Next steps, start engaging with 5 groups and gather feedback.
    
    - [ ] I have not shared the blogs with communities yet or have been able to host 20min session with them.
     - Not yet, due to the reasons above I was slightly hesitant how to approach them.

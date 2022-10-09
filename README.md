@@ -7,29 +7,24 @@ Stories of AI Outreach
    - [x] 1 Overview of Ocean, url:
    - https://www.loom.com/share/76ad66aa38304de4b70e2669079b634e
    - https://medium.com/@silentspring30/could-communities-reduce-bias-in-ai-by-selling-data-on-ocean-and-getting-remunerated-for-it-4b4b6969fefa
+
+
   * UPDATE on time spent: 
    * In preparation to reaching out to AI communities, I had to be prepared for questions and since I'm new to this field spent time researching and reading articles on AI safety, Ethics and decentralization. I also realized that I had to frame the outreach differently, since it could come potentially could come across as a web3scam (When I started to reach out, I got some mixed feedback from respondents).
  
   * Researched decentralized AI and Safety, and focused on how to mitigate Bias. Biggest questions here to explore AI development, Data collection, How to mitigate data bias.
-  * Researched how to onboard AI communities to data trusts, e.g. Datatrusts and how the onboarding would work. Biggest questions where in how to agree on a data privacy framework.
+  * Researched how to potentially onboard AI communities to data trusts, e.g. Datatrusts and how the onboarding would work. Biggest questions where in how to agree on a data privacy framework.
   * Researched how and where the data would be residing e.g. AWS or IFPS? How is security ensured?
-  * Review current dialogue of minority AI groups: e.g. DAIR, AI groups re Web3. 
+  * Review current dialogue of minority AI groups: e.g. DAIR, AI groups re Web3 and biggest topics. E.g. Data bias and concerns of exploitation data labellers.
  
  * Tutorials: I researched what kind of Ocean tutorials are currently available and decided on a shorter and less technical format. 
-  * Researched Ocean Market
-  * Researched Ocean Compute-to-Data
-  
- 
-  
-  
-  
-  
-  
-  
-   - [x] 2 Ocean Academy and courses: Ocean 101, url:
+  Researched Ocean Market, Researched Ocean Compute-to-Data.
+  I also had to set up my metamask for testing: How to get set up on Goerli and get test tokens Ether and OCEAN. 
+   
+   - [x ] 2 Ocean Academy and courses: Ocean 101, url:
    - https://medium.com/@silentspring30/learning-about-the-data-economy-data-selling-decentralized-finance-defi-at-ocean-academy-for-5d36a5b73c51
    
-   - [x] 3 “How to upload data on Ocean with less gas fees” url:
+   - [x ] 3 “How to upload data on Ocean with less gas fees” url:
    
    - [x] 4 “Why and how to use compute over data on Ocean” url: 
    - https://medium.com/@silentspring30/tutorial-how-to-publish-sell-a-dataset-privately-via-compute-over-data-on-ocean-marketplace-de6d12f72353

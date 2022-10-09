@@ -35,8 +35,8 @@ Stories of AI Outreach
    - https://docs.google.com/spreadsheets/d/1WtJ4KBp3Ew-FUD9ZypMEaiRLNG1B4mgaWXkiz_3YOFQ/edit?usp=sharing
 
   - [ ] Engage with communities on twitter, discord and telegram.
-   - For the above reasons I was slightly hesitant. 
-   - **Next steps: I am planning this in for next week 10/10/2022.**
+   - I spent time reading the conversations and topics. I am also new to Twitter and needed to get familiar with the format first.
+   - **Next steps: I am planning to share a twitter tweet in for next week 13/10/2022.**
 
   - [ ] Share tutorials and blogs with communities and/or host 20min online sessions with groups.
     - Not yet, due to the reasons above I was slightly hesitant how to approach them. 

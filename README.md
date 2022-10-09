@@ -5,22 +5,30 @@ Stories of AI Outreach
 
    - Content creation: User friendly 4x 4min video tutorials and short blog posts
    - [x] 1 Overview of Ocean, url:
+   - https://www.loom.com/share/76ad66aa38304de4b70e2669079b634e
    - https://medium.com/@silentspring30/could-communities-reduce-bias-in-ai-by-selling-data-on-ocean-and-getting-remunerated-for-it-4b4b6969fefa
   UPDATE:
   - Time spent: 
- In preparation to reaching out to AI communities, I had to be prepared for questions and since I'm new to this field spent time researching and reading articles.
-  - Researched decentralized AI and Safety, and focused on how to mitigate Bias. Biggest questions here to explore is h
+ In preparation to reaching out to AI communities, I had to be prepared for questions and since I'm new to this field spent time researching and reading articles on AI safety, Ethics and decentralization. I also needed to frame the outreach well since it could come potentially could come across as a web3scam.
+ (When I started to reach out, I got some mixed feedback from respondents. 
+ 
+  - Researched decentralized AI and Safety, and focused on how to mitigate Bias. Biggest questions here to explore AI development, Data collection, How to mitigate data bias.
   - Researched how to onboard AI communities to data trusts, e.g. Datatrusts and how the onboarding would work. Biggest questions where in how to agree on a data privacy framework.
-  - Review current dialogue of minority AI groups: e.g. DAIR, AI groups re Web3
-  - Why Ocean? How does it work?
+  - Researched how and where the data would be residing e.g. AWS or IFPS? How is security ensured?
+  -
+  - Review current dialogue of minority AI groups: e.g. DAIR, AI groups re Web3. 
+
+  - Why Ocean? 
   
-  - I researched how AI communities could be onboarded to a datatrust 
-   
+  
+  
+  
+  
+  
    - [x] 2 Ocean Academy and courses: Ocean 101, url:
    - https://medium.com/@silentspring30/learning-about-the-data-economy-data-selling-decentralized-finance-defi-at-ocean-academy-for-5d36a5b73c51
    
    - [x] 3 “How to upload data on Ocean with less gas fees” url:
-   - https://medium.com/@silentspring30/learning-about-the-data-economy-data-selling-decentralized-finance-defi-at-ocean-academy-for-5d36a5b73c51
    
    - [x] 4 “Why and how to use compute over data on Ocean” url: 
    - https://medium.com/@silentspring30/tutorial-how-to-publish-sell-a-dataset-privately-via-compute-over-data-on-ocean-marketplace-de6d12f72353

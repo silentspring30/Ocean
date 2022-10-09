@@ -10,21 +10,22 @@ Stories of AI Outreach
 
 
   UPDATE on time spent: 
-   * In preparation to reaching out to AI communities, I had to be prepared for questions and since I'm new to OCEAN and decentralized AI safety. I spent time researching and reading articles on AI safety, Ethics and decentralization. I also realized that I had to frame the outreach differently, since it could come potentially could come across as a web3scam (When I started to reach out, I got some mixed feedback from respondents).
-* Based on these insights, I reframed as: **Could-communities-reduce-bias-in-AI-by-selling-data-on-Ocean-and-getting-remunerated-for-it?** rather then "How to sell data in Ocean".
-  * Researched decentralized AI and Safety, and focused on how to mitigate Bias. Biggest questions here to explore AI development, Data collection, How to mitigate data bias. I developed my main argument here that Ocean marketplace could allow the decentralization of data.
-  * Researched how to potentially onboard AI communities to data trusts, e.g. Datatrusts and how the onboarding would work. Biggest questions where in how to agree on a data privacy framework.
+   * In preparation to reaching out to AI communities, I had to be prepared for questions and since I'm new to OCEAN and decentralized AI safety. I spent time researching and reading articles on AI safety, Ethics and decentralization (Contributed to workship paper that is currently in review, will update the link once paper is approved). I also realized that I had to frame the outreach differently, since it could come potentially could come across as a web3scam (When I started to reach out, I got some mixed feedback from respondents).
+* Based on these insights, I reframed my main article as: **Could-communities-reduce-bias-in-AI-by-selling-data-on-Ocean-and-getting-remunerated-for-it?** rather then "How to use less gas fees on Ocean".
+  * Researched decentralized AI and Safety, and focused on how to mitigate Bias. Biggest questions here to explore AI development, Data collection, How to mitigate data bias. I developed my main argument here that Ocean marketplace could allow the decentralization of data and give transparency in mitigatig bias.
+  * Researched how to potentially onboard AI communities to data trusts, e.g. Datatrusts and how the onboarding would work. Biggest questions where in how to agree on a data privacy framework. 
   * Researched how and where the data would be residing e.g. AWS or IFPS? How is security ensured?
   * Review current dialogue of minority AI groups: e.g. DAIR, AI groups re Web3 and biggest topics. E.g. Data bias and concerns of exploitation data labellers.
  
- * Tutorials: I researched what kind of Ocean tutorials are currently available and decided on a shorter and less technical format. 
-  Researched Ocean Market, Researched Ocean Compute-to-Data. I also had to set up my Metamask for testing: How to get set up on Goerli and get test tokens Ether and OCEAN.
+ * Tutorials: I researched what kind of Ocean tutorials are currently available and decided on framing of mitigation of databias, decentralization and shorter format. 
+ * Researched Ocean Market, Researched Ocean Compute-to-Data.
+ * I also had to set up my Metamask for testing: How to get set up on Goerli and get test tokens Ether and OCEAN.
    
    - [x] 2 Ocean Academy and courses: Ocean 101, url:
    - https://medium.com/@silentspring30/learning-about-the-data-economy-data-selling-decentralized-finance-defi-at-ocean-academy-for-5d36a5b73c51
    
-   - [x] 3 “How to upload data on Ocean with less gas fees” url: 
-      - https://medium.com/@silentspring30/could-communities-reduce-bias-in-ai-by-selling-data-on-ocean-and-getting-remunerated-for-it-4b4b6969fefa
+   - [x] 3 “How to upload data on Ocean with less gas fees” url:
+   - https://medium.com/@silentspring30/could-communities-reduce-bias-in-ai-by-selling-data-on-ocean-and-getting-remunerated-for-it-4b4b6969fefa
 
    - [x] 4 “Why and how to use compute over data on Ocean” url: 
    - https://medium.com/@silentspring30/tutorial-how-to-publish-sell-a-dataset-privately-via-compute-over-data-on-ocean-marketplace-de6d12f72353
@@ -41,13 +42,13 @@ Stories of AI Outreach
     - **Next steps, share tutorials Monday 10/10/2022 and get feeback.**
    
    - [ ] Engage with 5 groups. I only engaged with some AI individuals. However their feedback was very skeptical, there seems to be a lot of caution from the AI community towards web3. This needs to be researched further. By reading the tweets and blogs, there seems to be a lot of mistrusts towards web3 and Silicon valley. 
-   **Next steps, start engaging with 5 groups and gather feedback 17/10/2022.**
+   - **Next steps, start engaging with 5 groups and gather feedback 17/10/2022.**
    
-  
    - [X] Conduct qualitative user research on “barriers to selling data and algorithms” and “community approach on selling data”.
    - I conducted 3 user interviews 1:1, with general people and AI experts. Everyday people seemed not to concerned about their data, they used: Google Home, Shazaam, Amazon and Google documents and it didn't occur to them yet that they could sell their data and get remunerated for it.
-   - AI experts were open to the idea of data selling but didn't trust blockchain/web3. 
-    **Next steps, send out questionaire and 17/10/2022 and gather feedback**
+   - I think the biggest concerns/questions were around general data selling privacy issues and how to get learn about blockchain, e.g. Metamask.
+   - AI experts were open to the idea of data selling but didn't trust blockchain/web3.
+   - **Next steps, send out research questionaire for AI experts and 17/10/2022 and gather feedback**
    
 
 

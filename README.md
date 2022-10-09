@@ -8,16 +8,17 @@ Stories of AI Outreach
    - https://www.loom.com/share/76ad66aa38304de4b70e2669079b634e
    - https://medium.com/@silentspring30/could-communities-reduce-bias-in-ai-by-selling-data-on-ocean-and-getting-remunerated-for-it-4b4b6969fefa
 
-
-  UPDATE on time spent: 
-   * In preparation to reaching out to AI communities, I had to be prepared for questions and since I'm new to OCEAN and decentralized AI safety. I spent time researching and reading articles on AI safety, Ethics and decentralization (Contributed to workship paper that is currently in review, will update the link once paper is approved). I also realized that I had to frame the outreach differently, since it could come potentially could come across as a web3scam (When I started to reach out, I got some mixed feedback from respondents).
+**UPDATE on time spent:**
+* In preparation to reaching out to AI communities on Twitter, I had to be prepared for questions and since I'm new to OCEAN and decentralized AI  safety. I spent time researching and reading articles on AI safety, Ethics and decentralization (Contributed to workshop paper that is currently in review, will update the link once paper is approved). I also realized that I had to frame the outreach differently, since it could come potentially could come across as a web3scam (When I started to reach out, I got some mixed feedback from respondents).
+         
 * Based on these insights, I reframed my main article as: **Could-communities-reduce-bias-in-AI-by-selling-data-on-Ocean-and-getting-remunerated-for-it?** rather then "How to use less gas fees on Ocean".
-  * Researched decentralized AI and Safety, and focused on how to mitigate Bias. Biggest questions here to explore AI development, Data collection, How to mitigate data bias. I developed my main argument here that Ocean marketplace could allow the decentralization of data and give transparency in mitigatig bias.
+  * Researched decentralized AI and Safety, and focused on how to mitigate AI bias. Biggest questions here to explore AI development, Data collection, How to mitigate data bias. I developed my main argument here that Ocean marketplace could allow the decentralization of data and give transparency in mitigatig bias.
   * Researched how to potentially onboard AI communities to data trusts, e.g. Datatrusts and how the onboarding would work. Biggest questions where in how to agree on a data privacy framework. 
   * Researched how and where the data would be residing e.g. AWS or IFPS? How is security ensured?
-  * Review current dialogue of minority AI groups: e.g. DAIR, AI groups re Web3 and biggest topics. E.g. Data bias and concerns of exploitation data labellers.
+  * Review current dialogue of minority AI groups: e.g. DAIR, AI groups re Web3 and biggest topics. E.g. Data bias and concerns of exploitation data labellers. Set up twitter profile and started following conversations.
  
- * Tutorials: I researched what kind of Ocean tutorials are currently available and decided on framing of mitigation of databias, decentralization and shorter format. 
+ 
+ * Tutorials: I researched what kind of Ocean tutorials are currently available and decided on framing the tutorial based on how to mitigate databias, decentralization and shorter format (<5min).
  * Researched Ocean Market, Researched Ocean Compute-to-Data.
  * I also had to set up my Metamask for testing: How to get set up on Goerli and get test tokens Ether and OCEAN.
    
@@ -55,10 +56,7 @@ Stories of AI Outreach
 
 
 Value Add Criteria
-
 We believe that AI can solve humanity's biggest obstacles, however communities need to be aware of how to collect, share meaningful data to train AI models. This new outreach proposal will drive forward awareness for co-designing data collection and how to leverage Ocean market.
-
-
 a. Usage of Ocean
 
 This project will drive awareness about data monetization strategies of Ocean market to diverse AI communities beyond web3.
